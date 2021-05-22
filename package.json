@@ -5,7 +5,8 @@
   "keywords": [
     "awesome",
     "innovative",
-    "amazing"
+    "amazing",
+    "freecodecamp"
   ],
   "dependencies": {
     "express": "^4.14.0"
