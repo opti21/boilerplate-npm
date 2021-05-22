@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "opti21",
   "description": "A project that does something awesome",
+  "keywords": [
+    "awesome",
+    "innovative",
+    "amazing"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
